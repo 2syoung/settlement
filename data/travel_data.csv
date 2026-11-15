@@ -21,19 +21,3 @@ Date,Time,Photo No.,Taxi (Midnight),Category,Amount,Paid By,ASK,SHG,YSK,YH,JH,SY
 2026-09-20,,,Rental Car,Rental car,"132,330",YH,"26,466","26,466","26,466","26,466",0,"26,466",
 2026-09-21,,,Taxi Final Day (After lunch?),Taxi,"15,600",SHG,0,"7,800","7,800",0,0,0,
 ,,,Total Amount Paid (総支払額),,"1,054,630",,"130,607","258,332","310,865","234,315","35,699","84,807","1,054,630"
-,,,,,,,,,,,,,
-,,,,,,,Total Paid (総支払額),Actual Share (実質支払額),Status / Action,,,,
-,,,,,,Asako ,"130,607","130,608",to Yusaku,,,,
-,,,,,,Shogo,"258,332","242,733",to Yusaku,,,,
-,,,,,,Yusaku ,"310,865","-368,934",(Receive),,,,
-,,,,,,Youngho,"234,315","-88,014",(Receive),,,,
-,,,,,,Jihyun,"35,699","35,700",to Youngho,,,,
-,,,,,,Soyeon,"84,807","47,908",to Youngho,,,,
-,,,,,,,,1,,,,Reimbursement（立替金）,
-,,,,,,,,Actual Share = Total Paid - Reimbursment,,,Yusaku,"679,800",
-,,,,,,,,,,,Youngho,"322,330",
-,,,,,,,,,,,Soyeon ,"36,900",
-,,,,,,"・Soyeon and Jihyun pay Youngho
-・Asako and Shogo pay Yusaku
-※Yusaku pays Youngho 4,407 KRW",,,,,Shogo,"15,600",
-,,,,,,,,,,,合計,"1,054,630",
